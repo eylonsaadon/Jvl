@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Feylonsaadon2%2FJvl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Feylonsaadon2%2FJvl?ref=badge_shield)
+
 This is a "Vulnerable" Web Application developed by Cyber Security and Privacy Foundation(www.cysecurity.org). This app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code.
 
 **The full course content is now available on Github for free:**
@@ -73,3 +75,7 @@ How to Use/Setup ?
 Get the VulnerableSpring Project from here:
 https://github.com/CSPF-Founder/VulnerableSpring
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Feylonsaadon2%2FJvl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Feylonsaadon2%2FJvl?ref=badge_large)
