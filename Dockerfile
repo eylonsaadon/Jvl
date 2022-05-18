@@ -1,4 +1,4 @@
-FROM tomcat
+FROM debian
 
 COPY . .
 
